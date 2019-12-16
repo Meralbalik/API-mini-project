@@ -1,1 +1,1 @@
-# API-mini-project
+# Springboard mini projects
